@@ -1,3 +1,5 @@
+#Conversão de valores
+
 num1 = float(input("Digite seu numero:"))
 distancia =int(input("Digite sua distancia,1 para milhas,2 para polegadas,3 para pés,4 para centímetros,5 para metros,6 para quilômetros. "))
 conversao = int(input("Digite a distancia para converter,1 para milhas,2 para polegadas,3 para pés,4 para centímetros,5 para metros,6 para quilômetros."))
