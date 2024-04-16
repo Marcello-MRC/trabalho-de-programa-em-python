@@ -1,4 +1,5 @@
 #Calculadora de juros simples
+
 V_principal = float(input("Digite o valor principal: "))
 taxa_de_juros = float(input("Digite a sua taxa de juros: "))
 periodo = int(input("Digite em quanto tempo precisa pagar: "))
