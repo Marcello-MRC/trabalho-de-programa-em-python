@@ -1,4 +1,4 @@
-#repetição de enquanto a soma não for 10
+#repetição de enquanto nao digitar 10 numeros em repetição
 numero1 = 0
 soma = 0
 while numero1 < 10:
