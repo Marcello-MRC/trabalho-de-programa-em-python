@@ -1,8 +1,5 @@
-#pedir numeros ate que o usuario digite 0
-soma = 0 
-while True:
-    user = int(input("Digite um numero: "))
-    soma = user + soma
-    if user == 0:
-        print(soma)
-        break
+n1 = int(input("Diite um numero: "))
+fatorial = 1
+for n in range (1,n1+1):
+    fatorial *= n
+    print(fatorial)
